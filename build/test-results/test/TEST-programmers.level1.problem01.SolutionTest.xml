@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="programmers.level1.problem01.SolutionTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-11-04T12:55:28" hostname="macui-MacBookAir.local" time="0.112">
-  <properties/>
-  <testcase name="정수 내림차순 배치하기 테스트" classname="programmers.level1.problem01.SolutionTest" time="0.112"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
